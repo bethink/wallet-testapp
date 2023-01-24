@@ -1,0 +1,13 @@
+.buttonStyle {
+  background-color: black;
+  color: white;
+  margin-right: 10px;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.page {
+  /* padding: 1rem; */
+
+}
